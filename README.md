@@ -11,7 +11,7 @@
 
 **The most advanced 1688.com (Alibaba Wholesale) scraper and supplier intelligence tool for Amazon FBA merchants, Shopify brands, dropshippers, procurement managers, and cross-border e-commerce sellers. Extract true factory bulk prices, tiered volume discounts, minimum order quantities (MOQ), complete SKU variant matrices with matching photos, Amazon FBA packaging weights, and verified Super Factory (超级工厂) audit badges — 100% autonomously with Zero Login & Zero Chinese Phone Number Required.**
 
-[**🚀 Try it Live on Apify**](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) • [**📖 Documentation**](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) • [**💬 Support**](mailto:radwanfaris13@gmail.com)
+[**🚀 Try it Live on Apify**](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) • [**📖 Documentation**](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) • [**💬 Support**](https://apify.com/scraperpro/1688-wholesale-scraper/issues)
 
 </div>
 
@@ -318,7 +318,7 @@ Every exported item and run summary includes an encrypted **`resumptionToken`**.
 Need custom data pipelines, ERP / inventory integration, or high-volume enterprise crawls?
 
 - **Apify Actor Store:** [1688 Wholesale & Factory Scraper](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688)
-- **Email:** [radwanfaris13@gmail.com](mailto:radwanfaris13@gmail.com)
+- **Bug Reports & Sourcing Requests:** [Apify Issues](https://apify.com/scraperpro/1688-wholesale-scraper/issues)
 - **Author:** ScraperPro
 
 <div align="center">
