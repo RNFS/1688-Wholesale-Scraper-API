@@ -1,4 +1,4 @@
-# 🇨🇳 1688.com Wholesale & Factory Scraper API (阿里巴巴批发网)
+# 🇨🇳 1688 Scraper: 1688.com Wholesale & Factory Scraper API (阿里巴巴批发网)
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 [![Pricing](https://img.shields.io/badge/Pricing-Pay_Per_Result-orange?style=for-the-badge)](#)
 [![Factory Audit](https://img.shields.io/badge/Factory_Audit-Verified_SGS%2FBV-purple?style=for-the-badge)](#)
 
-**The most advanced 1688.com (Alibaba Wholesale) scraper and supplier intelligence tool for Amazon FBA merchants, Shopify brands, dropshippers, procurement managers, and cross-border e-commerce sellers. Extract true factory bulk prices, tiered volume discounts, minimum order quantities (MOQ), complete SKU variant matrices with matching photos, Amazon FBA packaging weights, and verified Super Factory (超级工厂) audit badges — 100% autonomously with Zero Login & Zero Chinese Phone Number Required.**
+**The most advanced 1688 and 1688.com (Alibaba Wholesale) scraper and supplier intelligence tool for Amazon FBA merchants, Shopify brands, dropshippers, procurement managers, and cross-border e-commerce sellers. Extract true factory bulk prices from 1688 / 1688.com, tiered volume discounts, minimum order quantities (MOQ), complete SKU variant matrices with matching photos, Amazon FBA packaging weights, and verified Super Factory (超级工厂) audit badges — 100% autonomously with Zero Login & Zero Chinese Phone Number Required.**
 
 [**🚀 Try it Live on Apify**](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) • [**📖 Documentation**](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) • [**💬 Support**](https://apify.com/scraperpro/1688-wholesale-scraper/issues)
 
@@ -336,4 +336,4 @@ Need custom data pipelines, ERP / inventory integration, or high-volume enterpri
 
 ## 🔍 Keywords & Search Tags
 
-`1688-scraper` • `1688-api` • `alibaba-wholesale-scraper` • `1688-crawler` • `1688-product-scraper` • `1688爬虫` • `1688数据采集` • `alibaba-1688-python` • `amazon-fba-sourcing` • `china-factory-scraper` • `dropshipping-sourcing-agent` • `super-factory-1688` • `yiwu-market-scraper` • `cross-border-ecommerce` • `apify-actor` • `oem-odm-china-manufacturers` • `1688-price-monitor`
+`1688` • `1688.com` • `1688-scraper` • `1688.com-scraper` • `1688-api` • `1688.com-api` • `1688-wholesale` • `1688.com-wholesale` • `1688-factory-sourcing` • `1688.com-factory-sourcing` • `scrape-1688` • `scrape-1688.com` • `alibaba-wholesale-scraper` • `1688-crawler` • `1688.com-crawler` • `1688-product-scraper` • `1688爬虫` • `1688.com爬虫` • `1688数据采集` • `alibaba-1688-python` • `amazon-fba-sourcing` • `china-factory-scraper` • `dropshipping-sourcing-agent` • `super-factory-1688` • `yiwu-market-scraper` • `cross-border-ecommerce` • `apify-actor` • `oem-odm-china-manufacturers` • `1688-price-monitor`
