@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="1688_Scraper_apify_Actor.jpeg" alt="1688 Wholesale & Factory Scraper by ScraperPro" width="100%">
+  <img src="1688_scraper_banner.jpg" alt="1688 Wholesale & Factory Scraper by ScraperPro" width="100%">
 </div>
 
 ---
@@ -195,6 +195,10 @@ curl -X POST "https://api.apify.com/v2/acts/scraperpro~1688-wholesale-scraper/ru
 ---
 
 ## 📤 Sample Output Data
+
+<div align="center">
+  <img src="1688_Scraper_apify_Actor.jpeg" alt="1688 Wholesale Scraper Apify Dataset Preview" width="100%">
+</div>
 
 Here is an example of an enriched B2B wholesale product record extracted in **Full Detail** mode:
 
