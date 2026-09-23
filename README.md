@@ -21,6 +21,14 @@
   <img src="1688_scraper_banner.jpg" alt="1688 Wholesale & Factory Scraper by ScraperPro" width="100%">
 </div>
 
+<p align="center">
+  <a href="https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688" target="_blank">
+    <img src="https://raw.githubusercontent.com/RNFS/1688-Wholesale-Scraper-API/main/try-it-free.svg" width="260" height="52" alt="Try it Free on Apify">
+  </a>
+  <br>
+  <sub>⚡ <b>1-Click Free Trial:</b> Test live queries using Apify's $5 free monthly credit • No credit card required</sub>
+</p>
+
 ---
 
 ## 📖 Overview
@@ -34,6 +42,36 @@ However, extracting data from 1688 has historically been a massive headache for 
 - Complex nested variation trees and pricing tiers hidden behind authenticated AJAX calls.
 
 **1688 Wholesale Scraper by ScraperPro** completely solves these procurement roadblocks. Powered by an autonomous extraction engine, this Actor extracts up to **10,000 items per run** with **10 parallel workers** — delivering clean, spreadsheet-ready factory data into Excel, CSV, or Google Sheets with zero account or cookie setup needed.
+
+<table>
+  <tr>
+    <td colspan="4" style="padding:10px 14px;background:#FF6A00;color:#FFFFFF;font-size:13px;font-weight:700;border-radius:6px 6px 0 0">
+      ⚡ ScraperPro · Chinese E-Commerce &amp; B2B Sourcing Ecosystem
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:25%">
+      <span style="white-space:nowrap">🌐 <b><a href="https://apify.com/scraperpro/alibaba-wholesale-scraper?fpr=939u3w&fp_sid=gh_alibaba" style="color:#0F172A;text-decoration:none;font-size:13px">Alibaba Wholesale</a></b></span><br>
+      <span style="color:#2563EB;font-size:11px;font-weight:600">Global B2B Wholesale</span><br>
+      <span style="color:#64748B;font-size:11px">Tiered prices, MOQ &amp; audits</span>
+    </td>
+    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FFF4ED;vertical-align:top;width:25%">
+      <span style="white-space:nowrap">🇨🇳 <b><a href="https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688" style="color:#C2410C;text-decoration:none;font-size:13px">1688 Factory Direct</a></b></span><br>
+      <span style="color:#EA580C;font-size:11px;font-weight:700">📍 You are here</span><br>
+      <span style="color:#64748B;font-size:11px">Domestic factory prices &amp; SKUs</span>
+    </td>
+    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:25%">
+      <span style="white-space:nowrap">🐟 <b><a href="https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish" style="color:#0F172A;text-decoration:none;font-size:13px">Goofish Products</a></b></span><br>
+      <span style="color:#2563EB;font-size:11px;font-weight:600">C2C Resale &amp; Arbitrage</span><br>
+      <span style="color:#64748B;font-size:11px">Zero-login search engine</span>
+    </td>
+    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:25%">
+      <span style="white-space:nowrap">⭐ <b><a href="https://apify.com/scraperpro/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=gh_goofish_seller" style="color:#0F172A;text-decoration:none;font-size:13px">Goofish Sellers</a></b></span><br>
+      <span style="color:#2563EB;font-size:11px;font-weight:600">Merchant Due Diligence</span><br>
+      <span style="color:#64748B;font-size:11px">Zhima credit &amp; reviews</span>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -52,6 +90,12 @@ However, extracting data from 1688 has historically been a massive headache for 
 | **Pagination Resumption** | ✅ **Encrypted `resumptionToken`** | ❌ Restarts from page 1 | ❌ None |
 | **Chinese Character URL Decoding** | ✅ **Automatic GBK & UTF-8 Auto-Routing** | ❌ Corrupts GBK query strings | ❌ None |
 | **Export Formats** | ✅ **Excel (.xlsx), CSV, Google Sheets, JSON** | ⚠️ JSON / CSV only | ⚠️ Unstructured raw HTML |
+
+<p align="center">
+  <a href="https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688" target="_blank">
+    <img src="https://raw.githubusercontent.com/RNFS/1688-Wholesale-Scraper-API/main/try-it-free.svg" width="240" height="48" alt="Try it Free on Apify">
+  </a>
+</p>
 
 ---
 
