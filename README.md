@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Available on Apify](https://img.shields.io/badge/Available_on-Apify-28B52A?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688)
+[![Available on Apify](https://img.shields.io/badge/Available_on-Apify-28B52A?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](#)
 [![Success Rate](https://img.shields.io/badge/Success_Rate-99%25+-brightgreen?style=for-the-badge)](#)
 [![Zero Login](https://img.shields.io/badge/Account_Required-None-blue?style=for-the-badge)](#)
@@ -11,18 +11,18 @@
 
 **The most advanced 1688 and 1688.com (Alibaba Wholesale) scraper and supplier intelligence tool for Amazon FBA merchants, Shopify brands, dropshippers, procurement managers, and cross-border e-commerce sellers. Extract true factory bulk prices from 1688 / 1688.com, tiered volume discounts, minimum order quantities (MOQ), complete SKU variant matrices with matching photos, Amazon FBA packaging weights, and verified Super Factory (超级工厂) audit badges — 100% autonomously with Zero Login & Zero Chinese Phone Number Required.**
 
-[**🚀 Try it Live on Apify**](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) • [**📖 Documentation**](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) • [**💬 Support**](https://apify.com/scraperpro/1688-wholesale-scraper/issues)
+[**🚀 Try it Live on Apify**](https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) • [**📖 Documentation**](https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) • [**💬 Support**](https://apify.com/unitbytes/1688-wholesale-scraper/issues)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="1688_scraper_banner.jpg" alt="1688 Wholesale & Factory Scraper by ScraperPro" width="100%">
+  <img src="1688_scraper_banner.jpg" alt="1688 Wholesale & Factory Scraper by UnitBytes" width="100%">
 </div>
 
 <p align="center">
-  <a href="https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688" target="_blank">
+  <a href="https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688" target="_blank">
     <img src="https://raw.githubusercontent.com/RNFS/1688-Wholesale-Scraper-API/main/try-it-free.svg" width="260" height="52" alt="Try it Free on Apify">
   </a>
   <br>
@@ -41,32 +41,32 @@ However, extracting data from 1688 has historically been a massive headache for 
 - Chinese character GBK encoding that corrupts URLs and keyword search terms.
 - Complex nested variation trees and pricing tiers hidden behind authenticated AJAX calls.
 
-**1688 Wholesale Scraper by ScraperPro** completely solves these procurement roadblocks. Powered by an autonomous extraction engine, this Actor extracts up to **10,000 items per run** with **10 parallel workers** — delivering clean, spreadsheet-ready factory data into Excel, CSV, or Google Sheets with zero account or cookie setup needed.
+**1688 Wholesale Scraper by UnitBytes** completely solves these procurement roadblocks. Powered by an autonomous extraction engine, this Actor extracts up to **10,000 items per run** with **10 parallel workers** — delivering clean, spreadsheet-ready factory data into Excel, CSV, or Google Sheets with zero account or cookie setup needed.
 
 <table>
   <tr>
     <td colspan="4" style="padding:10px 14px;background:#FF6A00;color:#FFFFFF;font-size:13px;font-weight:700;border-radius:6px 6px 0 0">
-      ⚡ ScraperPro · Chinese E-Commerce &amp; B2B Sourcing Ecosystem
+      ⚡ UnitBytes · Chinese E-Commerce &amp; B2B Sourcing Ecosystem
     </td>
   </tr>
   <tr>
     <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:25%">
-      <span style="white-space:nowrap">🌐 <b><a href="https://apify.com/scraperpro/alibaba-wholesale-scraper?fpr=939u3w&fp_sid=gh_alibaba" style="color:#0F172A;text-decoration:none;font-size:13px">Alibaba Wholesale</a></b></span><br>
+      <span style="white-space:nowrap">🌐 <b><a href="https://apify.com/unitbytes/alibaba-wholesale-scraper?fpr=939u3w&fp_sid=gh_alibaba" style="color:#0F172A;text-decoration:none;font-size:13px">Alibaba Wholesale</a></b></span><br>
       <span style="color:#2563EB;font-size:11px;font-weight:600">Global B2B Wholesale</span><br>
       <span style="color:#64748B;font-size:11px">Tiered prices, MOQ &amp; audits</span>
     </td>
     <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FFF4ED;vertical-align:top;width:25%">
-      <span style="white-space:nowrap">🇨🇳 <b><a href="https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688" style="color:#C2410C;text-decoration:none;font-size:13px">1688 Factory Direct</a></b></span><br>
+      <span style="white-space:nowrap">🇨🇳 <b><a href="https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688" style="color:#C2410C;text-decoration:none;font-size:13px">1688 Factory Direct</a></b></span><br>
       <span style="color:#EA580C;font-size:11px;font-weight:700">📍 You are here</span><br>
       <span style="color:#64748B;font-size:11px">Domestic factory prices &amp; SKUs</span>
     </td>
     <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:25%">
-      <span style="white-space:nowrap">🐟 <b><a href="https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish" style="color:#0F172A;text-decoration:none;font-size:13px">Goofish Products</a></b></span><br>
+      <span style="white-space:nowrap">🐟 <b><a href="https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish" style="color:#0F172A;text-decoration:none;font-size:13px">Goofish Products</a></b></span><br>
       <span style="color:#2563EB;font-size:11px;font-weight:600">C2C Resale &amp; Arbitrage</span><br>
       <span style="color:#64748B;font-size:11px">Zero-login search engine</span>
     </td>
     <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:25%">
-      <span style="white-space:nowrap">⭐ <b><a href="https://apify.com/scraperpro/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=gh_goofish_seller" style="color:#0F172A;text-decoration:none;font-size:13px">Goofish Sellers</a></b></span><br>
+      <span style="white-space:nowrap">⭐ <b><a href="https://apify.com/unitbytes/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=gh_goofish_seller" style="color:#0F172A;text-decoration:none;font-size:13px">Goofish Sellers</a></b></span><br>
       <span style="color:#2563EB;font-size:11px;font-weight:600">Merchant Due Diligence</span><br>
       <span style="color:#64748B;font-size:11px">Zhima credit &amp; reviews</span>
     </td>
@@ -75,9 +75,9 @@ However, extracting data from 1688 has historically been a massive headache for 
 
 ---
 
-## 🌟 Why Sourcing Teams Choose ScraperPro
+## 🌟 Why Sourcing Teams Choose UnitBytes
 
-| Sourcing Capability | ScraperPro 1688 Scraper | Alternative Scrapers | Generic Web Crawlers |
+| Sourcing Capability | UnitBytes 1688 Scraper | Alternative Scrapers | Generic Web Crawlers |
 | :--- | :---: | :---: | :---: |
 | **Pricing Model** | **Pay-Per-Result (PPE)** | Expensive Monthly Subscriptions ($100-$300/mo) | High hourly server fees ($0.40/CU) |
 | **Account / Login Requirement** | **None (100% Worldwide Access)** | Requires Chinese (+86) Phone & Alipay | Manual session cookies required |
@@ -92,7 +92,7 @@ However, extracting data from 1688 has historically been a massive headache for 
 | **Export Formats** | ✅ **Excel (.xlsx), CSV, Google Sheets, JSON** | ⚠️ JSON / CSV only | ⚠️ Unstructured raw HTML |
 
 <p align="center">
-  <a href="https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688" target="_blank">
+  <a href="https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688" target="_blank">
     <img src="https://raw.githubusercontent.com/RNFS/1688-Wholesale-Scraper-API/main/try-it-free.svg" width="240" height="48" alt="Try it Free on Apify">
   </a>
 </p>
@@ -136,7 +136,7 @@ Directly target Zhejiang and Yiwu wholesale markets to source novelties, home or
 
 ## 🛠️ How to Use via API
 
-You can trigger runs directly in the [Apify Console](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) or integrate programmatically into your Python, Node.js, or cURL pipeline.
+You can trigger runs directly in the [Apify Console](https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688) or integrate programmatically into your Python, Node.js, or cURL pipeline.
 
 ### 🐍 Python Example
 
@@ -166,7 +166,7 @@ run_input = {
 
 # Run the Actor and wait for completion
 print("🚀 Launching 1688 Factory Scraper...")
-run = client.actor("scraperpro/1688-wholesale-scraper").call(run_input=run_input)
+run = client.actor(\"unitbytes/1688-wholesale-scraper\").call(run_input=run_input)
 
 # Fetch scraped wholesale products from the dataset
 dataset_items = client.dataset(run["defaultDatasetId"]).list_items().items
@@ -213,7 +213,7 @@ const runInput = {
 };
 
 console.log('🚀 Starting 1688 Scraper...');
-const run = await client.actor('scraperpro/1688-wholesale-scraper').call(runInput);
+const run = await client.actor(\"unitbytes/1688-wholesale-scraper\").call(runInput);
 
 const { items } = await client.dataset(run.defaultDatasetId).listItems();
 console.log(`✅ Extracted ${items.length} products from 1688!`);
@@ -226,7 +226,7 @@ console.log(items.slice(0, 2));
 ### 🌐 cURL Example
 
 ```bash
-curl -X POST "https://api.apify.com/v2/acts/scraperpro~1688-wholesale-scraper/runs?token=YOUR_APIFY_TOKEN" \
+curl -X POST "https://api.apify.com/v2/acts/unitbytes~1688-wholesale-scraper/runs?token=YOUR_APIFY_TOKEN" \
   -H "Content-Type: application/json" \
   -d '{
     "keyword": "wireless earbuds",
@@ -365,13 +365,13 @@ Every exported item and run summary includes an encrypted **`resumptionToken`**.
 
 Need custom data pipelines, ERP / inventory integration, or high-volume enterprise crawls?
 
-- **Apify Actor Store:** [1688 Wholesale & Factory Scraper](https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688)
-- **Bug Reports & Sourcing Requests:** [Apify Issues](https://apify.com/scraperpro/1688-wholesale-scraper/issues)
-- **Author:** ScraperPro
+- **Apify Actor Store:** [1688 Wholesale & Factory Scraper](https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688)
+- **Bug Reports & Sourcing Requests:** [Apify Issues](https://apify.com/unitbytes/1688-wholesale-scraper/issues)
+- **Author:** UnitBytes
 
 <div align="center">
   <br>
-  <a href="https://apify.com/scraperpro/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688">
+  <a href="https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688">
     <img src="https://img.shields.io/badge/Start_Scraping_Now-Apify-28B52A?style=for-the-badge&logo=apify&logoColor=white" height="40" alt="Start Scraping Now">
   </a>
 </div>
