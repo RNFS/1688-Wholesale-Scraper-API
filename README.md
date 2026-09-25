@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://unitbytes.com/assets/banners/unitbytes-1688-wholesale-factory-supplier-scraper-banner.jpg" alt="1688 Wholesale Factory Supplier Scraper API by UnitBytes" width="100%" />
+  <img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/banners/unitbytes-1688-wholesale-factory-supplier-scraper-banner.jpg" alt="1688 Wholesale Factory Supplier Scraper API by UnitBytes" width="100%" />
 </p>
 
 # 🇨🇳 1688 Scraper: 1688.com Wholesale & Factory Scraper API (阿里巴巴批发网)
